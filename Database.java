@@ -9,6 +9,7 @@ public class Database {
         String username = "root";
         String password = "root";
         Connection con = DriverManager.getConnection(url, username, password);
+
         return con;
     }
 

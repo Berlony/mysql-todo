@@ -64,6 +64,7 @@ public class App {
 
                     }
                     break;
+
                 case 3:
                     System.out.println("3. Deleting a Data");
                     System.out.println("Enter ID : ");
